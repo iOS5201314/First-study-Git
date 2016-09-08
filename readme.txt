@@ -20,4 +20,6 @@
 \f0 \cf2 \cb3 \
 Git \cf5 \cb3 is\cf2 \cb3  free software distributed under the GPL!\
 Git has a mutable index called stage.\
-}
+Git tracks changes.(
+\f1 \cf2 \cb3 \'b9\'ec\'b5\'c0
+\f0 \cf2 \cb3 )}
