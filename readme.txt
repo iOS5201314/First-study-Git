@@ -10,10 +10,13 @@
 \
 \cf4 liwendong:\cf2 \
   
-\f1 \'ce\'d2\'b5\'c4\'b5\'da\'d2\'bb\'b8\'f6\'b2\'e2\'ca\'d4\'ce\'c4\'bc\'fe
+\f1 \'ce\'d2\'b5\'c4\'b5\'da\'d2\'bb\'b8\'f6\'b2\'e2\'ca\'d4\'ce\'c4\'bc\'fe\'a3\'a8\'d0\'de\'b8\'c4\'d6\'ae\'ba\'f3\'b5\'c4\'a3\'a9
 \f0 \
 \
-Git \cf5 \cb3 is\cf2 \cb3  a version control system.\
-Git \cf5 \cb3 is\cf2 \cb3  free software.\
-\
+\pard\pardeftab720\partightenfactor0
+
+\fs24 \cf2 \cb3 Git \cf5 \cb3 is\cf2 \cb3  a distributed version control system.
+\f1 \cf2 \cb3 \'a3\'a8\'b7\'d6\'b2\'bc\'ca\'bd\'b0\'e6\'b1\'be\'bf\'d8\'d6\'c6\'a3\'a9
+\f0 \cf2 \cb3 \
+Git \cf5 \cb3 is\cf2 \cb3  free software!\
 }
